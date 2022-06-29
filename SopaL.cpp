@@ -33,6 +33,7 @@ void consulta(char palabras[10][50]){
 			existe=1;
 		}
 	}
+//Elfego Adair Juarez Arias UAEMEX
 	
 	if(existe==1){
 		printf("La palabra esta en la matriz");
